@@ -4,3 +4,7 @@ int main(){
 	value=value|(1<<pos);
         printf("%d",value);
 }
+
+
+toggle bit
+value=value^(1<<pos);
